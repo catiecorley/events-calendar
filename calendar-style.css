@@ -1,0 +1,36 @@
+th, td, tr{
+    border: 2px solid black;
+}
+th{
+    font-size: 20px;
+    width: 200px;
+
+}
+tr{
+    height: 100px;
+}
+td{
+    width: 200px;
+}
+#headers{
+    color: red;
+    font-size: 300px;
+    background-color: burlywood;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 500;
+    color: green;
+}
+
+#logout{
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    border: 2px solid black;
+}
+
+#logout:hover{
+    background-color: grey;
+}
